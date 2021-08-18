@@ -1,6 +1,6 @@
 
-
-# Crowd Counting
+ 
+# Crowd Counting 
 
 This project is about crowd counting and it is also an implementaion of the [CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly Congested Scenes](https://arxiv.org/abs/1802.10062) on our private dataset using Pytorch backend with the help of the author's github (https://github.com/leeyeehoo/CSRNet-pytorch).
 
